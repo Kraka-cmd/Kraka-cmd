@@ -13,7 +13,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3><code>{ }</code> Freelance development</h3>
-      Features, bugfixes en onderhoud in webapplicaties met Angular. De eerste feature bouw ik tegen een vaste prijs.<br><br>
+      Features, bugfixes en onderhoud in webapplicaties met Angular, .NET en PostgreSQL. De eerste feature bouw ik tegen een vaste prijs.<br><br>
       <b>Eerste feature vaste prijs</b><br>
       <sub>daarna € 70 per uur</sub>
     </td>
@@ -31,6 +31,10 @@
     </td>
   </tr>
 </table>
+
+## Technieken
+
+`Angular` `TypeScript` `C#` `.NET 8` `ASP.NET Core` `PostgreSQL` `Entity Framework Core` `Docker` `Playwright` `Claude Code`
 
 ## Werkwijze
 

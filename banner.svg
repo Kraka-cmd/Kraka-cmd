@@ -38,7 +38,7 @@
     <text x="56" y="242">tegen een <tspan fill="url(#hl)">vaste prijs</tspan>,</text>
     <text x="56" y="296">getest opgeleverd</text>
   </g>
-  <text x="56" y="340" font-family="ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#9aa7b6">Angular  ·  TypeScript  ·  Claude Code  ·  Pull requests</text>
+  <text x="56" y="340" font-family="ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#9aa7b6">Angular  ·  .NET 8  ·  PostgreSQL  ·  Docker  ·  Playwright</text>
 
   <g transform="translate(676 62)">
     <rect width="468" height="256" rx="14" fill="#0a0e14" stroke="#263041"/>
