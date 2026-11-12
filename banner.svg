@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="t d">
+  <title id="t">Lovenda: je eerste feature tegen een vaste prijs, getest opgeleverd</title>
+  <desc id="d">Banner met het aanbod van Lovenda en de uitkomst van een acceptatietest: 12 scenario's, 6 geslaagd, 6 afgekeurd.</desc>
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#1b2432" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="teal" cx="88%" cy="0%" r="60%">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violet" cx="0%" cy="100%" r="60%">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hl" x1="0" x2="1">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="380" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#r)">
+    <rect width="1200" height="380" fill="#0d1117"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <rect width="1200" height="380" fill="url(#violet)"/>
+    <rect width="1200" height="380" fill="url(#teal)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="379" rx="18" fill="none" stroke="#263041"/>
+
+  <g font-family="ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, monospace">
+    <text x="56" y="74" font-size="22" font-weight="700" fill="#2dd4bf">&gt;_ <tspan fill="#e6edf3" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">Lovenda</tspan></text>
+    <text x="56" y="128" font-size="14" font-weight="600" letter-spacing="2" fill="#2dd4bf">FULL-STACK DEVELOPMENT</text>
+  </g>
+
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="46" fill="#e6edf3" letter-spacing="-1">
+    <text x="56" y="188">Je eerste feature</text>
+    <text x="56" y="242">tegen een <tspan fill="url(#hl)">vaste prijs</tspan>,</text>
+    <text x="56" y="296">getest opgeleverd</text>
+  </g>
+  <text x="56" y="340" font-family="ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#9aa7b6">Angular  ·  TypeScript  ·  Claude Code  ·  Pull requests</text>
+
+  <g transform="translate(676 62)">
+    <rect width="468" height="256" rx="14" fill="#0a0e14" stroke="#263041"/>
+    <path d="M0 14a14 14 0 0 1 14-14h440a14 14 0 0 1 14 14v24H0z" fill="#0f141c"/>
+    <path d="M0 38h468" stroke="#1c2431"/>
+    <circle cx="20" cy="19" r="5" fill="#2c3645"/><circle cx="36" cy="19" r="5" fill="#2c3645"/><circle cx="52" cy="19" r="5" fill="#2c3645"/>
+    <g font-family="ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#d7dee7">
+      <text x="72" y="24" font-size="12" fill="#7d8896">acceptatietest: thelovenda.store</text>
+      <text x="20" y="70"><tspan fill="#7d8896">$</tspan> claude /acceptatietest</text>
+      <text x="20" y="96"><tspan fill="#2dd4bf">✓</tspan> T04 Product toevoegen werkt totaal bij</text>
+      <text x="20" y="122"><tspan fill="#2dd4bf">✓</tspan> T08 Code WELKOM10 geeft 10% korting</text>
+      <text x="20" y="148"><tspan fill="#ff7b72">✗</tspan> T06 Negatief aantal wordt geweigerd</text>
+      <text x="448" y="148" text-anchor="end" fill="#ff7b72">D-02 hoog</text>
+      <text x="20" y="174"><tspan fill="#ff7b72">✗</tspan> T10 Kortingscode maar één keer</text>
+      <text x="448" y="174" text-anchor="end" fill="#ff7b72">D-01 hoog</text>
+      <text x="20" y="200"><tspan fill="#ff7b72">✗</tspan> T11 Gratis verzending bij € 50,00</text>
+      <text x="448" y="200" text-anchor="end" fill="#e3b341">D-03 middel</text>
+      <text x="20" y="236">12 scenario's  <tspan fill="#2dd4bf">6 geslaagd</tspan>  <tspan fill="#ff7b72">6 afgekeurd</tspan></text>
+    </g>
+  </g>
+</svg>
