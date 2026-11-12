@@ -15,6 +15,7 @@ Op [thelovenda.store](https://thelovenda.store) staat een demo-webwinkel met zes
 | Repository | Inhoud |
 |---|---|
 | [thelovenda-showcase](https://github.com/Kraka-cmd/thelovenda-showcase) | Demo-webwinkel en voorbeeld-acceptatietestrapport |
+| [claude-code-teamsetup](https://github.com/Kraka-cmd/claude-code-teamsetup) | Voorbeeld van een Claude Code-teaminrichting: projectinstructies, permissies en skills |
 | [lovenda-site](https://github.com/Kraka-cmd/lovenda-site) | Website van Lovenda |
 
 Meer over de diensten: [lovenda.nl](https://lovenda.nl)
